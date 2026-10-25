@@ -7,9 +7,6 @@ cask "budsbar" do
   desc "Menu-bar & system tray controller for realme Buds T310"
   homepage "https://github.com/MonuChaudhary14/BudsBar"
 
-  depends_on macos: ">= :catalina"
-  depends_on arch: :arm64
-
   app "BudsBar.app"
 
   zap trash: [
