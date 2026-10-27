@@ -1,6 +1,6 @@
 cask "budsbar" do
-  version "1.0.0"
-  sha256 "96d01a5d8a31b0b987840c07b13ea1ff9538c11c4fa13ba281d85fe33ee4ea3b"
+  version "1.0.1"
+  sha256 "b79a982bdd3921fbc8c199c333cf775e6f4c73adfe92152941a4dfecb79e67fa"
 
   url "https://github.com/MonuChaudhary14/BudsBar/releases/download/v#{version}/BudsBar-#{version}-arm64.dmg"
   name "BudsBar"
